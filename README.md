@@ -11,4 +11,5 @@ Tested on **Unity 2018.4.8f1 LTS**.
 Currently, it works only on windows machines.
 
 ![alt text](https://raw.githubusercontent.com/Zaimatsu/unity-BuildAndRunMultipleInstances/master/build_window_readme.png)
+
 *Build -> Build and Run -> x instace(s)*
